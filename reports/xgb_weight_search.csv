@@ -1,0 +1,4 @@
+scale_pos_weight,value,val_pr_auc,trees
+balanced (n_neg/n_pos),577.65,0.7272,26
+sqrt-balanced,24.03,0.8114,57
+none (1.0),1.0,0.8477,250
